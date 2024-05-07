@@ -1,4 +1,4 @@
-class Libxmlsec1AT1238 < Formula
+class Libxmlsec1AT1239 < Formula
   desc "XML security library"
   homepage "https://www.aleksey.com/xmlsec/"
   url "https://www.aleksey.com/xmlsec/download/xmlsec1-1.2.39.tar.gz"
